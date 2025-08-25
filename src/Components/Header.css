@@ -1,0 +1,19 @@
+#header-div{
+    display: flex;
+    width: 100vw;
+    height: 10vh;
+    margin-top: 0px;
+    padding-top: 0px;
+    box-shadow: 0px 0px 8px rgba(45,45,45,0.3);
+    align-items: center;
+    gap: 1vw;
+    position:sticky;
+}
+#header-div img{
+    height: 4.7vh;
+    padding-left: 3vw;
+}
+#cart-btn{
+    background-color: black;
+    color: white;
+}
